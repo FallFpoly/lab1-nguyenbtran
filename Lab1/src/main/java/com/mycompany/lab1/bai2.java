@@ -14,6 +14,8 @@ public class bai2 {
 
     public static void main(String[] args) {
           // sinh viên code ở đây
+          System.out.print("Nguyễn Phạm Bảo Trân");
+         System.out.print("Nguyễn Phạm Bảo Trân");
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhập chiều dài: ");
         double dai = scanner.nextDouble();
