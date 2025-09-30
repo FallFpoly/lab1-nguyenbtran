@@ -12,7 +12,8 @@ public class bai1 {
 
     public static void main(String[] args) {
         // sinh viên code ở đây
-         Scanner scanner = new Scanner(System.in);
+        System.out.print("Nguyễn Phạm Bảo Trân");
+        Scanner scanner = new Scanner(System.in);
         System.out.print("Họ và tên: ");
         String hoTen = scanner.nextLine();
         System.out.print("Điểm TB: ");
