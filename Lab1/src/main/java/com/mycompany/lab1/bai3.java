@@ -14,6 +14,7 @@ public class bai3 {
 
     public static void main(String[] args) {
           // sinh viên code ở đây
+          System.out.print("Nguyễn Phạm Bảo Trân");
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhập cạnh của khối lập phương: ");
         double canh = scanner.nextDouble();
